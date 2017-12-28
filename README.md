@@ -1,6 +1,6 @@
 # cube
 
-A new Flutter project.
+An interactive cube written in flutter.
 
 ## Getting Started
 
